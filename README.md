@@ -4,9 +4,9 @@
 
 sns(blog)
 
-<img src="https://img.shields.io/badge/Blog-#000000?style=flat-square&logo=tistory&logoColor=white"/>
-
-email
+<img src="https://img.shields.io/badge/--Blog-000000"/>
+          
+          email
 
 <img src="https://img.shields.io/badge/Email-#EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 
@@ -21,7 +21,9 @@ email
 <img src="https://img.shields.io/badge/Nodejs-339933?style=flat-square&logo=nodejs&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+
+
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=myjunee3608)](https://solved.ac/myjunee360})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=myjunee3608)](https://solved.ac/myjunee3608})
 
 ![아이디's github stats](https://github-readme-stats.vercel.app/api?username=junseok3608&show_icons=true)
