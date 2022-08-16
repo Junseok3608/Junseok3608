@@ -6,8 +6,7 @@
 <a href="#"><img src = "https://img.shields.io/static/v1?label=Email&message=myjunee3608@gmail.com&color=white"/></a>
 
 
-- 👋 Hi, I’m junseokKim @Junseok3608 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=myjunee3608)](https://solved.ac/myjunee3608})
+- 👋 Hi, I’m junseokKim @Junseok3608 
 - 👀 I’m interested in HTML, CSS, javaScript
 - 🌱 I’m currently learning HTML, CSS, javaScript(Node.js, React)
 
