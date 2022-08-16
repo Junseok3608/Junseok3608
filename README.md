@@ -2,10 +2,9 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Junseok-kim%20&fontSize=90)
 
 
-sns(blog)
+<a href="https://lkfkimschool.tistory.com/"><img src = "https://img.shields.io/badge/Blog-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
 
-<img src="https://img.shields.io/badge/--Blog-000000"/>
-          
+<a href="#"><img src = "https://img.shields.io/static/v1?label=Email&message=myjunee3608@gmail.com&color=white"/></a>
 
 
 <img src="https://img.shields.io/badge/Email-#EA4335?style=flat-square&logo=gmail&logoColor=white"/>
