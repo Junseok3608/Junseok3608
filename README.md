@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Junseok-kim%20&fontSize=90)
 
-<a href="#"><img src = "https://img.shields.io/static/v1?label=Blog&message=Tistory&color=white"/></a>
+<a href="https://lkfkimschool.tistory.com/"><img src = "https://img.shields.io/static/v1?label=Blog&message=Tistory&color=white"/></a>
 
 <a href="#"><img src = "https://img.shields.io/static/v1?label=Email&message=myjunee3608@gmail.com&color=white"/></a>
 
